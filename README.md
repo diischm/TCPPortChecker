@@ -192,6 +192,10 @@ if __name__ == "__main__":
 
 ---
 
+## Other details
+    - Variables at the start of the code, easy for manipulation.
+    - .json and .txt file output
+
 ## Summary
 
 | Method | Pros | Cons |
